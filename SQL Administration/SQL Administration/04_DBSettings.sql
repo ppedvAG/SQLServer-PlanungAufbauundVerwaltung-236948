@@ -2,8 +2,12 @@
 
 /*
 Anfangsgrößen !!! wie groß in 3 Jahren ..
+Perfekt wäre: niemals Vergrößern..
 
 Wachstumsrate : mehr als 64!!!!!.. eher 1 GB
+
+Achtung: bei MIgrationen von DB oder inPlace Upgrades wird
+nichts an den Settings der DB geändert!!!
 
 
 --Wo kann man Vergößerung sehen.. Bericht: Datenträgerverwendung
@@ -15,7 +19,7 @@ Sonderfall: TLOG
      .... | TX........| TX TX |  TX TX |  TX TX TX TX TX TX TX
 -------------------------------------------------
 
-je mehr Virtuelle Logfiles desto größer der aufwand
+je mehr Virtuelle Logfiles desto größer der Aufwand
 
 hängt von der Wachstumsrate ab..
 
@@ -38,12 +42,6 @@ siehe Skript zu VLF
 
 
 --Trenne Daten von Logfiles
-
--- Dateigruppen: Trenne Stammdaten von Bewegungsdaten 
-
-
-
-
 
 
 
