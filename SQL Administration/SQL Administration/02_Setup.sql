@@ -1,5 +1,6 @@
 /*
 
+--SQL Dienste
 
  Volumewartungstask = reine Windows Sicherheitseinstellung
 
@@ -7,9 +8,9 @@
 jede Vergrößerung verbraucht eigtl die doppelte Schreibarbeit
 da Windows zuerst die Dateien vergrößert und mit 0 beschreibt
 eigtl ein Sicherheitsfeature: Lokaler Sicherheitsrichtlinien.. Zuweisen von Benutzerrechten
-----------------------
+------------------------------
 0101010110101111111111
-----------------------
+------------------------------
 
 aktiviert man den Datenvol..wa..task... dann kann SQL Server eigenständig vergrößeren
 ohne vorher ausnullen-- schneller,
