@@ -85,11 +85,29 @@
           <AssociatedConnUserName />
           <FullPath>10_Warnungen.sql</FullPath>
         </FileNode>
+        <FileNode Name="11_Backup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN\HR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN\HR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_Backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_Snapshot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11_Snapshot.sql</FullPath>
+        </FileNode>
         <FileNode Name="14_Proxykonto.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>14_Proxykonto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_instnwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_instnwnd.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
