@@ -185,11 +185,23 @@
     </LogicalFolder>
     <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
       <Items>
+        <FileNode Name="FirstResponderKit.zip">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>FirstResponderKit.zip</FullPath>
+        </FileNode>
         <FileNode Name="PerfmonVorlage.xml">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>PerfmonVorlage.xml</FullPath>
+        </FileNode>
+        <FileNode Name="SQLPOL.zip">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQLPOL.zip</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
